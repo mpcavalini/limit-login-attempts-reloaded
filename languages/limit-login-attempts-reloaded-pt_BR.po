@@ -24,7 +24,7 @@ msgstr ""
 msgid "%d hour"
 msgid_plural "%d hours"
 msgstr[0] "%d hora"
-msgstr[1] "%d Stunden"
+msgstr[1] "%d horas"
 
 #: core/LimitLoginAttempts.php:526
 #, php-format
@@ -60,7 +60,7 @@ msgstr ""
 #: core/LimitLoginAttempts.php:551
 #, php-format
 msgid "IP was blocked for %s"
-msgstr "IP foi bloquado para %s."
+msgstr "IP foi bloqueado para %s."
 
 #: core/LimitLoginAttempts.php:718
 msgid "<strong>ERROR</strong>: Too many failed login attempts."
@@ -264,7 +264,7 @@ msgstr ""
 #, fuzzy
 msgctxt "Internet address"
 msgid "IP"
-msgstr "IP foi bloquado para %s."
+msgstr "IP foi bloqueado para %s."
 
 #: views/options-page.php:218
 msgid "Tried to log in as"
